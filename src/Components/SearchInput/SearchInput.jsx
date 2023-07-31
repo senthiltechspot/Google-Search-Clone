@@ -7,7 +7,6 @@ const SearchInput = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [isFocused, setIsFocused] = useState(false);
   const [isTyping, setIsTyping] = useState(false);
-  console.log(searchTerm);
   const handleChange = (event) => {
     setSearchTerm(event.target.value);
   };

@@ -1,6 +1,7 @@
-# View Project by
+# Google Search Clone
+## View Project by
  [Live Url](https://google-search-clone-senthiltechspot.vercel.app).
-`https://google-search-clone-senthiltechspot.vercel.app`
+`https://google-search-clone-senthiltechspot.vercel.app`(https://google-search-clone-senthiltechspot.vercel.app)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
