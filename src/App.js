@@ -13,6 +13,12 @@ class App extends Component {
             <Route path="/search" element={<Search />} />
           </Routes>
         </BrowserRouter>
+        <footer className="d-flex justify-content-center">
+          <h6>
+            © Designed and Developed by{" "}
+            <a href="https://github.com/Senthilspot"> Senthilspot</a>
+          </h6>
+        </footer>
       </div>
     );
   }
