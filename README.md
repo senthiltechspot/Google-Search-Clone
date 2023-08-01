@@ -1,13 +1,13 @@
 # Google Search Clone
 
+
+## View Project by
+[Live Url](https://google-search-clone-senthiltechspot.vercel.app).
+`https://google-search-clone-senthiltechspot.vercel.app`
  <h6>
             © Designed and Developed by
             <a href="https://github.com/Senthiltechspot"> SenthilTechSpot</a>
-          </h6>
-## View Project by
- [Live Url](https://google-search-clone-senthiltechspot.vercel.app).
-`https://google-search-clone-senthiltechspot.vercel.app`
-
+</h6>
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
